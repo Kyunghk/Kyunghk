@@ -25,9 +25,9 @@
 
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-------------|------|------------|------|
-| [Smart Factory Defect Detection](https://github.com/ai-feat-3-scratch-defect-tuning) | AI 기반 실시간 불량품 분류 및 자동화 제어 시스템 | FastAPI, MongoDB, Arduino, Raspberry Pi | 2025.07 ~ 2025.09 |
-| | 전국주차장 세부 정보 제공 웹 서비스 | Flask, MongoDB, HTML, CSS, JavaScript, Naver Maps API | 2025.02 |
-| [ToiLet-Go](https://github.com/2024-Opensource-project/toilet-go) | 공중화장실 위치 조회 및 사용자 리뷰 기능 제공 웹 서비스 | Spring Boot, MySQL, Docker, Kubernetes | 2024.09 ~ 2024.11 |
+| [Smart Factory Defect Detection](https://github.com/ai-feat-3-scratch-defect-tuning) | 난반사 소재 결함 관리 및 품질 분류 통합 서비스 | FastAPI, MongoDB, Arduino, Raspberry Pi | 2025.07 ~ 2025.09 |
+| [JMT] | 전국주차장 세부 정보 제공 웹 서비스 | Flask, MongoDB, HTML, CSS, JavaScript, Naver Maps API | 2025.02 |
+| [ToiLet-Go] | 공중화장실 위치 조회 및 사용자 리뷰 기능 제공 웹 서비스 | Spring Boot, MySQL, Docker, Kubernetes | 2024.09 ~ 2024.11 |
 
 ---
 

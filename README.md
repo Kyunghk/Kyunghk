@@ -51,8 +51,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kyunghk&show_icons=true&theme=tokyonight" />
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyunghk&layout=compact&theme=tokyonight" /> -->
-</p>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyunghk&layout=compact&theme=tokyonight" />
+</p> -->
+<div align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+</div>

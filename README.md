@@ -92,11 +92,3 @@
 | K‑Software Empowerment BootCamp (KSEB) | 정보통신기획평가원(IITP) | 신세계 I&C 협력, AI·스마트팩토리·게임 분야 중심의 실무형 SW 인재 양성 부트캠프 | 2025.03 ~ 2025.11 |
 | Code Safari (크래프톤 정글 단기 캠프) | 경기대학교 · 크래프톤 정글 | AI 시대 디지털 인재 양성 및 프로그래밍 역량 강화 캠프 | 2025.02.03 ~ 2025.02.14 |
 | TAG 학생회 (대외협력국) | 경기대학교 SW경영대학 | 교내외 행사 제휴 및 대외협력 추진, 장소 섭외 및 파트너 네트워킹 담당 | 2025.01 ~ 2025.12 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kyunghk&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
